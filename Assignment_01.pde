@@ -1,3 +1,7 @@
+/*
+Here is my first edit to the robot assignment.
+*/
+
 import javax.swing.JOptionPane;                     // for use of JOptionPane objects
 
 float x = 640;                                      //  x position of the robot
